@@ -1,0 +1,14 @@
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\bin\Debug\net6.0\FPStrukDatBeta.exe
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\bin\Debug\net6.0\FPStrukDatBeta.deps.json
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\bin\Debug\net6.0\FPStrukDatBeta.runtimeconfig.json
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\bin\Debug\net6.0\FPStrukDatBeta.dll
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\bin\Debug\net6.0\FPStrukDatBeta.pdb
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\FPStrukDatBeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\FPStrukDatBeta.AssemblyInfoInputs.cache
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\FPStrukDatBeta.AssemblyInfo.cs
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\FPStrukDatBeta.csproj.CoreCompileInputs.cache
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\FPStrukDatBeta.dll
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\refint\FPStrukDatBeta.dll
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\FPStrukDatBeta.pdb
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\FPStrukDatBeta.genruntimeconfig.cache
+C:\Users\andhi\Documents\FPStrukDatBeta\FPStrukDatBeta\obj\Debug\net6.0\ref\FPStrukDatBeta.dll
