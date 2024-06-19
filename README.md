@@ -8,3 +8,8 @@ Anggota:
 
 Struktur Data yang digunakan:
 - Binary Search Tree
+
+
+Kita membuat sistem Perpustakaan yang bisa mencari Judul Buku dengan mencari ISBN
+Membuat file Node.cs lalu membuat Buku.cs untuk data
+Untuk pencariannya kita membuat BST.cs dengan method Insert, Search menggunakan Binary Seacrh Tree
